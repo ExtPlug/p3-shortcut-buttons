@@ -1,6 +1,6 @@
 {
-  "name": "extplug-toggle-streamclear-chat-buttons",
-  "version": "0.0.0",
+  "name": "extplug-p3-shortcut-buttons",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "Adds stream toggle and chat clear buttons above the chat, similar to plug³.",
   "keywords": [
