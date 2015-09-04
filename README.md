@@ -3,6 +3,10 @@ Toggle Stream/Clear Chat Buttons
 
 Adds stream toggle and chat clear buttons above the chat, similar to plug³.
 
+| ![Screenshot](http://i.imgur.com/ogc2Frz.png) |
+|---|
+| Chat header with shortcut buttons |
+
 ## Installation
 
 If you do not have ExtPlug yet, get it [here](https://extplug.github.io).
