@@ -1,6 +1,8 @@
 Toggle Stream/Clear Chat Buttons
 ================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/extplug/p3-shortcut-buttons.svg)](https://greenkeeper.io/)
+
 Adds stream toggle and chat clear buttons above the chat, similar to plug³.
 
 | ![Screenshot](http://i.imgur.com/ogc2Frz.png) |
